@@ -2,7 +2,7 @@
   "name": "active_cat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Facundo-001.github.io/active_cat/build",
+  "homepage": "https://Facundo-001.github.io/active_cat/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
