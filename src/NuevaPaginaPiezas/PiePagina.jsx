@@ -1,5 +1,5 @@
 // import React from 'react';
-import './style-fondo.css'
+import './StyleFondo.css'
 
 function Pie_pagina() {
     return (
