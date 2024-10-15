@@ -14,13 +14,6 @@ import TST_TS from './NuevaPaginaPiezas/modulos/TST_TS.tsx';
 
 
 function App() {
-  // Definición de clases para las alertas
-  const Alertas = {
-    AlertaRoja: 'alert alert-danger',
-    AlertaCeleste: 'alert alert-info',
-  };
-
-
   return (
   <Router>
     <div className="d-flex flex-column min-vh-100">
