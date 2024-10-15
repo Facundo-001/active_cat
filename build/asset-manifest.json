@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c900195.css",
-    "main.js": "/static/js/main.b41a1efb.js",
-    "static/js/453.57f7ba8e.chunk.js": "/static/js/453.57f7ba8e.chunk.js",
-    "static/media/Fondo2X2.jpeg": "/static/media/Fondo2X2.b75fa9db5058ece613c9.jpeg",
-    "index.html": "/index.html",
-    "main.2c900195.css.map": "/static/css/main.2c900195.css.map",
-    "main.b41a1efb.js.map": "/static/js/main.b41a1efb.js.map",
-    "453.57f7ba8e.chunk.js.map": "/static/js/453.57f7ba8e.chunk.js.map"
+    "main.css": "/Facundo-001/active_cat/tree/main/build/static/css/main.8ae31eae.css",
+    "main.js": "/Facundo-001/active_cat/tree/main/build/static/js/main.54aba60a.js",
+    "static/js/453.57f7ba8e.chunk.js": "/Facundo-001/active_cat/tree/main/build/static/js/453.57f7ba8e.chunk.js",
+    "static/media/Fondo2X2.jpeg": "/Facundo-001/active_cat/tree/main/build/static/media/Fondo2X2.b75fa9db5058ece613c9.jpeg",
+    "index.html": "/Facundo-001/active_cat/tree/main/build/index.html",
+    "main.8ae31eae.css.map": "/Facundo-001/active_cat/tree/main/build/static/css/main.8ae31eae.css.map",
+    "main.54aba60a.js.map": "/Facundo-001/active_cat/tree/main/build/static/js/main.54aba60a.js.map",
+    "453.57f7ba8e.chunk.js.map": "/Facundo-001/active_cat/tree/main/build/static/js/453.57f7ba8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c900195.css",
-    "static/js/main.b41a1efb.js"
+    "static/css/main.8ae31eae.css",
+    "static/js/main.54aba60a.js"
   ]
 }
