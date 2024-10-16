@@ -31,7 +31,7 @@
                         <Link to="Active-cats/Galeria-de-gatitos" className="nav-link active fs-6" href="#">Foto de gatitos</Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disabled fs-6" href="#" tabIndex="-1" aria-disabled="true">Proximamente.</a>
+                        <Link className="nav-link fs-6" to="" tabIndex="-1" aria-disabled="true">Tienda</Link>
                     </li>
                 </ul>
             </div>

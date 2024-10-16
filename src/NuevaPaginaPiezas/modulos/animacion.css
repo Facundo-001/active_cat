@@ -128,6 +128,12 @@
   animation: orbit 18s linear infinite;
 }
 
+.pluto:hover{
+  /* left: 3em; */
+  color: #fff;
+  box-shadow: 0 0 1em #ff0202;
+}
+
 .mercury::before, .venus::before, .earth::before, .moon::before, .mars::before, .jupiter::before, .saturn::before, .uranus::before, .neptune::before, .pluto::before {
   content: '';
   background: #ffffff;

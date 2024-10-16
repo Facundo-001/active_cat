@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './animacion.css';
+// import './animacion.css';
 
 const TST_TS: React.FC = () => {
 
@@ -125,9 +125,8 @@ const TST_TS: React.FC = () => {
                         <div className="letter" style={{ color: 'lime', transform: 'rotate(240deg) translateX(100px)' }}>C</div>
                     </div>
                 </div> */}
-        <div className="container-1 container vh-100 d-flex justify-content-center align-items-center">
+        {/* <div className="container-1 container vh-100 d-flex justify-content-center align-items-center">
             <div className="sun mt-5">
-                {/* <img src="./images/sun.png" alt="sun" /> */}
             </div>
             <div className="mercury mt-5"></div>
             <div className="venus mt-5"></div>
@@ -140,7 +139,7 @@ const TST_TS: React.FC = () => {
             <div className="uranus mt-5"></div>
             <div className="neptune mt-5"></div>
             <div className="pluto mt-5"></div>
-        </div>
+        </div> */}
     </>
     );
 

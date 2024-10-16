@@ -10,6 +10,8 @@ import Mi_nivel from './NuevaPaginaPiezas/modulos/MiNivel.jsx'
 import CatGallery from './NuevaPaginaPiezas/modulos/GeneradoGatitos';
 import Facciones from './NuevaPaginaPiezas/modulos/Facciones';
 import TST_TS from './NuevaPaginaPiezas/modulos/TST_TS.tsx';
+import NotificacionAnuncio from './NuevaPaginaPiezas/NotificacionAnuncio.jsx';
+
 
 
 
@@ -19,6 +21,7 @@ function App() {
     <div className="d-flex flex-column min-vh-100">
     {/* <header className="bg-primary text-white text-center py-3"> */}
         {/* <h1>Mi Aplicación</h1> */}
+        <NotificacionAnuncio />
         <Barra_nav />
     {/* </header> */}
     <main className="flex-grow-1 ">
