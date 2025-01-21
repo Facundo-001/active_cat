@@ -1,0 +1,23 @@
+.boxes{
+  height: 20vh; 
+  max-height: 700px; 
+  box-sizing: border-box; 
+  overflow: hidden;
+  transition: all .4s; 
+}
+
+.boxes:hover{
+  height: 20rem;
+}
+
+.boxes2{
+  height: 30vh; 
+  max-height: 700px; 
+  box-sizing: border-box; 
+  overflow: hidden;
+  transition: all .4s; 
+}
+
+.boxes2:hover{
+  height: 24rem;
+}

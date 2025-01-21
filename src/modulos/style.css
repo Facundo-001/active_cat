@@ -1,0 +1,59 @@
+.icon-container {
+    display: inline-flex;
+    align-items: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .icon-container img,
+  .icon-container span {
+    transition: transform 0.3s ease;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  .icon-container:hover {
+    transform: scale(1.1); /* Agranda todo el conjunto (imagen + texto) */
+    /* box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); Añade una sombra más intensa */
+  }
+  
+  .icon-container img:hover,
+  .icon-container span:hover {
+    transform: scale(1); /* Agranda tanto la imagen como el texto */
+    /* box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); Sombra en ambos elementos */
+  }
+  
+
+
+
+
+
+
+  .audio-player {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .audio-btn {
+    background: #007bff;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .audio-btn:hover {
+    background: #0056b3;
+  }
+  
+  #seekBar {
+    width: 100px;
+    cursor: pointer;
+  }
+  
+  span {
+    font-size: 12px;
+    color: #ccc;
+  }
+  
